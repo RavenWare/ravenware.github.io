@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on RavenWare</title>
+    <link>https://ravenware.github.io/tags/news/</link>
+    <description>Recent content in news on RavenWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ravenware.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Welcome</title>
+      <link>https://ravenware.github.io/posts/2021/04/another-welcome/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenware.github.io/posts/2021/04/another-welcome/</guid>
+      <description>asdfsadffasdfasdf</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://ravenware.github.io/posts/2021/04/welcome/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenware.github.io/posts/2021/04/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RavenWare</title>
+    <link>https://ravenware.github.io/</link>
+    <description>Recent content on RavenWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ravenware.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Key-Value stores comparison</title>
+      <link>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</guid>
+      <description>In this post, I will breakdown the main features of some key-value stores.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ravenware.github.io/about/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenware.github.io/about/</guid>
+      <description>RavenWare is a creative collaboration around open source software.</description>
+    </item>
+    
+    <item>
+      <title>Another Welcome</title>
+      <link>https://ravenware.github.io/posts/2021/04/another-welcome/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenware.github.io/posts/2021/04/another-welcome/</guid>
+      <description>asdfsadffasdfasdf</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://ravenware.github.io/posts/2021/04/welcome/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenware.github.io/posts/2021/04/welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ravenware.github.io/projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ravenware.github.io/projects/</guid>
+      <description>ONYX : A Key-Value Store  https://github.com/RavenWare/Onyx  Contribute Learn more and contribute to our projects by visiting us over at RavenWare GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>
