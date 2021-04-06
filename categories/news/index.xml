@@ -18,32 +18,5 @@
  &amp;ldquo;John&amp;rdquo;:&amp;quot;+123456789&amp;quot; &amp;ldquo;12-34-5678&amp;rdquo;:&amp;ldquo;Jane&amp;rsquo;s birth date&amp;rdquo;  Although the notion is quite simple to grasp, implementing a key-value store, not so much.</description>
     </item>
     
-    <item>
-      <title>Key-Value stores comparison</title>
-      <link>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</link>
-      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</guid>
-      <description>In this post, I will breakdown the main features of some key-value stores.</description>
-    </item>
-    
-    <item>
-      <title>Another Welcome</title>
-      <link>https://ravenware.github.io/posts/2021/04/another-welcome/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ravenware.github.io/posts/2021/04/another-welcome/</guid>
-      <description>asdfsadffasdfasdf</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://ravenware.github.io/posts/2021/04/welcome/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ravenware.github.io/posts/2021/04/welcome/</guid>
-      <description>  </description>
-    </item>
-    
   </channel>
 </rss>

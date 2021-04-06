@@ -34,49 +34,5 @@ Let&rsquo;s take some examples:</p>
 ]]></content>
         </item>
         
-        <item>
-            <title>Key-Value stores comparison</title>
-            <link>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</link>
-            <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</guid>
-            <description>In this post, I will breakdown the main features of some key-value stores.</description>
-            <content type="html"><![CDATA[<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>In this post, I will breakdown the main features of some key-value stores.</p>
-<p><img src="/images/no-sql-logo.jpg" alt="NoSQLLogo"></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Another Welcome</title>
-            <link>https://ravenware.github.io/posts/2021/04/another-welcome/</link>
-            <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://ravenware.github.io/posts/2021/04/another-welcome/</guid>
-            <description>asdfsadffasdfasdf</description>
-            <content type="html"><![CDATA[<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p>asdfsadffasdfasdf</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Welcome</title>
-            <link>https://ravenware.github.io/posts/2021/04/welcome/</link>
-            <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://ravenware.github.io/posts/2021/04/welcome/</guid>
-            <description>  </description>
-            <content type="html"><![CDATA[<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<blockquote>
-</blockquote>
-]]></content>
-        </item>
-        
     </channel>
 </rss>
