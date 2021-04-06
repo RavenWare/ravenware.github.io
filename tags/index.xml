@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RavenWare</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ravenware.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ravenware.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>database</title>
       <link>https://ravenware.github.io/tags/database/</link>
-      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ravenware.github.io/tags/database/</guid>
       <description></description>
@@ -24,7 +20,7 @@
     <item>
       <title>key-value</title>
       <link>https://ravenware.github.io/tags/key-value/</link>
-      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ravenware.github.io/tags/key-value/</guid>
       <description></description>
@@ -33,7 +29,7 @@
     <item>
       <title>No SQL</title>
       <link>https://ravenware.github.io/tags/no-sql/</link>
-      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ravenware.github.io/tags/no-sql/</guid>
       <description></description>

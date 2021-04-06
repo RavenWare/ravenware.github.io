@@ -6,8 +6,33 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://ravenware.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Key-Value stores comparison</title>
+            <link>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</link>
+            <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</guid>
+            <description>In this post, I will introduce the key-value store concept and compare the features of some of the well known of this kind of databases. In its essence, a key-value store can be reduced to a database containing pairs of data in the form of {key:value}. To a key, a value is associated. Let&amp;rsquo;s take some examples:
+ &amp;ldquo;John&amp;rdquo;:&amp;quot;+123456789&amp;quot; &amp;ldquo;12-34-5678&amp;rdquo;:&amp;ldquo;Jane&amp;rsquo;s birth date&amp;rdquo;  Although the notion is quite simple to grasp, implementing a key-value store, not so much.</description>
+            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>In this post, I will introduce the key-value store concept and compare the features of some of the well known of this kind of databases.
+In its essence, a key-value store can be reduced to a database containing pairs of data in the form of {key:value}.
+To a <em>key</em>, a <em>value</em> is associated.
+Let&rsquo;s take some examples:</p>
+<ul>
+<li>&ldquo;John&rdquo;:&quot;+123456789&quot;</li>
+<li>&ldquo;12-34-5678&rdquo;:&ldquo;Jane&rsquo;s birth date&rdquo;</li>
+</ul>
+<p>Although the notion is quite simple to grasp, implementing a key-value store, not so much.</p>
+<p>Let&rsquo;s delve into some of most used and well known key-value store:</p>
+<p><img src="/images/no-sql-logo.jpg" alt="NoSQLLogo"></p>
+]]></content>
+        </item>
         
         <item>
             <title>Key-Value stores comparison</title>
@@ -16,15 +41,11 @@
             
             <guid>https://ravenware.github.io/posts/2021/04/key-value-stores-comparison/</guid>
             <description>In this post, I will breakdown the main features of some key-value stores.</description>
-            <content type="html"><![CDATA[<!-- ![carrier](/images/background.jpg) -->
-
-<!-- ![carrier](https://cdn.pixabay.com/photo/2016/02/19/11/19/office-1209640_960_720.jpg)
-[pixabay](https://pixabay.com/de/photos/b%C3%BCro-gesch%C3%A4ft-kollegen-treffen-1209640/)
- -->
-
+            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>In this post, I will breakdown the main features of some key-value stores.</p>
-
-<p><img src="/images/no-sql-logo.jpg" alt="NoSQLLogo" /></p>
+<p><img src="/images/no-sql-logo.jpg" alt="NoSQLLogo"></p>
 ]]></content>
         </item>
         
@@ -35,12 +56,9 @@
             
             <guid>https://ravenware.github.io/posts/2021/04/another-welcome/</guid>
             <description>asdfsadffasdfasdf</description>
-            <content type="html"><![CDATA[<!-- ![carrier](/images/background.jpg) -->
-
-<!-- ![carrier](https://cdn.pixabay.com/photo/2016/02/19/11/19/office-1209640_960_720.jpg)
-[pixabay](https://pixabay.com/de/photos/b%C3%BCro-gesch%C3%A4ft-kollegen-treffen-1209640/)
- -->
-
+            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>asdfsadffasdfasdf</p>
 ]]></content>
         </item>
@@ -51,12 +69,12 @@
             <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
             
             <guid>https://ravenware.github.io/posts/2021/04/welcome/</guid>
-            <description></description>
-            <content type="html"><![CDATA[<!-- ![carrier](/images/background.jpg) -->
-
-<!-- ![carrier](https://cdn.pixabay.com/photo/2016/02/19/11/19/office-1209640_960_720.jpg)
-[pixabay](https://pixabay.com/de/photos/b%C3%BCro-gesch%C3%A4ft-kollegen-treffen-1209640/)
- -->
+            <description>  </description>
+            <content type="html"><![CDATA[<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<blockquote>
+</blockquote>
 ]]></content>
         </item>
         
