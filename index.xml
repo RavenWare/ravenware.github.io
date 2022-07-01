@@ -7,10 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>localhost/about/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about/</guid>
+      <description>Locus Soundsystem is a DJ collective in Göteborg, Sweden.
+Locus was founded in 1999 by a bunch of good friends, and this makes them the longest running concept for deep electronic music in Scandinavia.
+Locus hosts their annual club night at Pustervik since 2001, but they are also throwing parties and playing gigs all over Sweden and the world.
+Locus has shared some wild times playing alongside such artists as: Alex Arnout, Andre Kronert, Canson, Click, Daniel Becker, Daniel Czerner, David Dorad, David Keno, Demir &amp;amp; Seymen, Dorisburg, Eddie Richards, Frank Beckers, James Dexter, Kaiserdisco, Madmotormiguel, Marcus Meinhardt, Martinez, Markus Homm, Mira, Mihai Popoviciu, Ray Okpara, Red Axes, Rotzige Beats, Smokescreen Soundsystem, SuperFlu, Till Von Sein and Yapacc to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>localhost/events/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/events/</guid>
+      <description>July 2, 2022 | Aniara meets Locus at Nefertiti Description: Arkajo &amp;amp; Ebende &amp;hellip;
+Event Links:
+ Resident Advisor Link
+  July , 2022 | TBD  Locus Sound System is a creative collaboration around electronic dance music.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>localhost/music/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/music/</guid>
+      <description>SoundCloud Links Bomström @bomstrom
+Dano @daniel-grizelj
+Doma @dj-doma
+Kristo @kristolocus
+Rico Lee @ricoleelocussoundsystem
+Rui @rainbauer
+Bomström  Dano  Doma  Kristo  Rico Lee  Rui  </description>
+    </item>
     
     <item>
       <title>Intervju: Arkajo från Aniara</title>
@@ -23,39 +62,12 @@ Ja precis, jag var med och anordnade min första klubb på Nef tillsammans med e
     </item>
     
     <item>
-      <title>Events</title>
-      <link>localhost/events/</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>localhost/events/</guid>
-      <description>Locus is a creative collaboration around electronic dance music.</description>
-    </item>
-    
-    <item>
       <title>Klubb Locus</title>
       <link>localhost/klubblocus/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>localhost/klubblocus/</guid>
       <description>Locus Sound System is a creative collaboration around electronic dance music.</description>
-    </item>
-    
-    <item>
-      <title>Releases</title>
-      <link>localhost/music/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>localhost/music/</guid>
-      <description>Coming&amp;hellip; Rui  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>localhost/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>localhost/about/</guid>
-      <description></description>
     </item>
     
   </channel>
