@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on </title>
-    <link>https://ravenware.github.io/categories/events/</link>
+    <link>localhost/categories/events/</link>
     <description>Recent content in Events on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ravenware.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="localhost/categories/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Aniara Meets Locus at Nefertiti</title>
-      <link>https://ravenware.github.io/posts/2022/06/aniara-meets-locus-at-nefertiti/</link>
+      <title>Intervju: Arkajo från Aniara</title>
+      <link>localhost/posts/2022/06/intervju-arkajo-fr%C3%A5n-aniara/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ravenware.github.io/posts/2022/06/aniara-meets-locus-at-nefertiti/</guid>
-      <description>aa In this post, I will introduce the key-value store concept and compare the features of some of the well known of this kind of databases. In its essence, a key-value store can be reduced to a database containing pairs of data in the form of {key:value}. To a key, a value is associated. Let&#39;s take some examples:
- &amp;ldquo;John&amp;rdquo;:&amp;ldquo;+123456789&amp;rdquo; &amp;ldquo;12-34-5678&amp;rdquo;:&amp;ldquo;Jane&#39;s birth date&amp;rdquo;  Although the notion is quite simple to grasp, implementing a key-value store, not so much.</description>
+      <guid>localhost/posts/2022/06/intervju-arkajo-fr%C3%A5n-aniara/</guid>
+      <description>Locus: Hej Nils, vad kul det ska bli att få höra dig spela hos oss på Nefertiti på lördag! Nefertiti är ju en plats som väldigt många i Göteborg har en speciell koppling till. Kan du berätta lite om din relation till Nef, för du körde ju klubb där för många år sedan?
+Ja precis, jag var med och anordnade min första klubb på Nef tillsammans med ett gäng gymnasievänner. Den hette Klubb Go och var fokuserad på Nujazz och Broken Beats.</description>
     </item>
     
   </channel>

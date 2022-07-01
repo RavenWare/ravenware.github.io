@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ravenware.github.io/</loc>
+    <loc>localhost/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/tags/aniara/</loc>
+    <loc>localhost/tags/aniara/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/posts/2022/06/aniara-meets-locus-at-nefertiti/</loc>
+    <loc>localhost/categories/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/categories/</loc>
+    <loc>localhost/categories/events/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/categories/events/</loc>
+    <loc>localhost/posts/2022/06/intervju-arkajo-fr%C3%A5n-aniara/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/tags/locus/</loc>
+    <loc>localhost/tags/locus/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/tags/nefertiti/</loc>
+    <loc>localhost/tags/nefertiti/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/posts/</loc>
+    <loc>localhost/posts/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/series/</loc>
+    <loc>localhost/series/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/tags/</loc>
+    <loc>localhost/tags/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/events/</loc>
+    <loc>localhost/events/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/klubblocus/</loc>
+    <loc>localhost/klubblocus/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/music/</loc>
+    <loc>localhost/music/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ravenware.github.io/about/</loc>
+    <loc>localhost/about/</loc>
     <priority>0</priority>
   </url>
   

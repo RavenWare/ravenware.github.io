@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/cp/lss_factory",
+	"sourceRoot": "/Users/cp/prj/lss_factory",
 	"sources": [
 		"assets/scss/main.scss",
 		"assets/scss/_normalize.scss",
