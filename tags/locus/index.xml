@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Locus on </title>
-    <link>localhost/tags/locus/</link>
+    <link>https://ravenware.github.io/tags/locus/</link>
     <description>Recent content in Locus on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost/tags/locus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ravenware.github.io/tags/locus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intervju: Arkajo från Aniara</title>
-      <link>localhost/posts/2022/06/intervju-arkajo-fr%C3%A5n-aniara/</link>
+      <link>https://ravenware.github.io/posts/2022/06/intervju-arkajo-fr%C3%A5n-aniara/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>localhost/posts/2022/06/intervju-arkajo-fr%C3%A5n-aniara/</guid>
+      <guid>https://ravenware.github.io/posts/2022/06/intervju-arkajo-fr%C3%A5n-aniara/</guid>
       <description>Locus: Hej Nils, vad kul det ska bli att få höra dig spela hos oss på Nefertiti på lördag! Nefertiti är ju en plats som väldigt många i Göteborg har en speciell koppling till. Kan du berätta lite om din relation till Nef, för du körde ju klubb där för många år sedan?
 Ja precis, jag var med och anordnade min första klubb på Nef tillsammans med ett gäng gymnasievänner. Den hette Klubb Go och var fokuserad på Nujazz och Broken Beats.</description>
     </item>
